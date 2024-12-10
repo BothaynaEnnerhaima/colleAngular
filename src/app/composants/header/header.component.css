@@ -1,0 +1,11 @@
+@import url(../../../../node_modules/bootstrap/dist/css/bootstrap.min.css);
+.active{
+    font-weight: bold;
+    font-style: italic;
+    color: red;
+}
+a{
+    text-decoration: none;
+    font-weight: 2rem;
+   
+}
